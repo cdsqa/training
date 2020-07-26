@@ -1,2 +1,3 @@
-I like conflicts.
 
+I like conflicts.
+Mr. Git does not like conflict.
