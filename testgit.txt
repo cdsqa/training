@@ -1,2 +1,1 @@
-I changed this file on Github.
-
+I don't like conflicts.
