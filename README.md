@@ -1,1 +1,1 @@
-# CDS Training Github for Software Quality Assurance
+# CDS Training Projects for Software QA
